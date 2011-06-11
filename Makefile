@@ -13,7 +13,7 @@ all: tron
 
 .PHONY: clean
 clean:
-	rm -rf $(BIN) $(OBJ)
+	rm -rf $(BIN) src/$(OBJ)
 
 install: tron 
 	mv tron /usr/bin/
