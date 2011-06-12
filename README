@@ -1,0 +1,13 @@
+Tron.
+
+Hast Du Angst vor HAL, Pulseaudio, D-BUS und sonstigen Programmen? Kein Problem!
+
+    /usr/bin/tron to teh resuce.
+
+Installation
+------------
+
+1) git clone
+2) make all
+3) sudo make install
+4) Feel teh safety with Tron on your system.
