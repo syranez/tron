@@ -1,6 +1,6 @@
 VERSION = 1.0
 CC      = /usr/bin/gcc
-CFLAGS  = -Wall -g -D_REENTRANT -DVERSION=\"$(VERSION)\"
+CFLAGS  = -Wall -D_REENTRANT -DVERSION=\"$(VERSION)\"
 
 OBJ = tron.o
 
